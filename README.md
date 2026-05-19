@@ -17,6 +17,17 @@
 
 ---
 
+## 👨‍💻 Team Members
+
+| Name | Roll Number |
+|------|-------------|
+| Mohit Chitkara | 2210991929 |
+| Tanisha Chopra | 2210992441 |
+| Ayush Dua | 2210991133 |
+| Ayush Dua | 2210992105 |
+
+---
+
 ## 🚀 Features
 
 - 🗺️ **Interactive Map Integration** - Built with MapLibre GL for rich, customizable maps
